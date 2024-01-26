@@ -13,10 +13,20 @@ Nie pada śnieg ani deszcz.
 <br/>
 <br/>
 
-| Kolumna 1 | Kolumna 2|
-| :---: | :---: |
-| to | jest |
-| wspaniała | tabela |
+<table style="width: 50%; border-collapse: collapse;">
+  <tr style="background-color: green;">
+    <th style="border: 1px solid black; padding: 8px; text-align: center;">Kolumna 1</th>
+    <th style="border: 1px solid black; padding: 8px; text-align: center;">Kolumna 2</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">to</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">jest</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">wspaniała</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">tabela</td>
+  </tr>
+</table>
 
 ### super góry
-![góry.jpg](gory2.jpg)
+<img src="gory2.jpg" alt="góry" style="width: 500px; height: auto; border-radius: 20px; margin: 10px;">
