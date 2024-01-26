@@ -29,4 +29,4 @@ Nie pada śnieg ani deszcz.
 </table>
 
 ### super góry
-<img src="gory2.jpg" alt="góry" style="width: 500px; height: auto; border-radius: 20px; margin: 10px;">
+<img src="gory2.jpg" alt="góry" style="width: 300px; height: auto; border-radius: 20px; margin: 10px;">
